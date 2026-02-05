@@ -1,4 +1,4 @@
-# MacOS Notes app cleaner
+# MacOS Notes app cleaner 🗒️
 
 **Clean up your macOS Notes app** using Google Gemini to classify notes: keep what matters, move junk (orphan links, copy-paste, old checklists) into a review folder in Notes.
 
